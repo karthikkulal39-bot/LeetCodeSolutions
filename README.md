@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
