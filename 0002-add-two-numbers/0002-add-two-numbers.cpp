@@ -10,26 +10,54 @@
  */
 class Solution {
 public:
+    ListNode* head=nullptr;
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* temp = new ListNode(0);
-        ListNode* cur = temp;
-        int carry = 0;
-        while (l1 != nullptr || l2 != nullptr || carry != 0) {
-            int v1 = (l1 != nullptr) ? l1->val : 0;
-            int v2 = (l2 != nullptr) ? l2->val : 0;
-            int sum = v1 + v2 + carry;
-             carry = sum / 10;
-            int digit = sum % 10;
-            cur->next = new ListNode(digit);
-            cur=cur->next;
-
-            if (l1 != nullptr) {
-                l1 = l1->next;
-            }
-            if (l2 != nullptr) {
-                l2 = l2->next;
-            }
+              long long value1=0;
+        long long value2=0;
+        int carry=0;
+        while(l1!=nullptr && l2!=nullptr){
+            value1=l1->val;
+            l1=l1->next;
+            value2=l2->val;
+            l2=l2->next;
+            int sum=value1+value2+carry;
+            carry=sum/10;
+            int dig=sum%10;
+            head=createLL(head,dig);
+            
         }
-        return temp->next;
+        while(l1!=nullptr){
+            int sum=l1->val + carry;
+            l1=l1->next;
+            carry=sum/10;
+            int dig=sum%10;
+           head=createLL(head,dig);
+        }
+        while(l2!=nullptr){
+            int sum=l2->val + carry;
+            l2=l2->next;
+            carry=sum/10;
+            int dig=sum%10;
+           head=createLL(head,dig);
+        }
+        if(carry!=0){
+            head=createLL(head,carry);
+        }
+       
+        return head;
     }
+    ListNode* createLL(ListNode* head,int val){
+        if(head==nullptr){
+            return new ListNode(val);
+        }
+        ListNode* temp=head;
+        while(temp->next!=nullptr){
+            temp=temp->next;    
+        }
+        ListNode* newOne=new ListNode(val);
+        temp->next=newOne;
+    return head;
+    }
+
+ 
 };
