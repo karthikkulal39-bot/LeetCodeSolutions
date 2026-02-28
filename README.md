@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
