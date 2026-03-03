@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 <!---LeetCode Topics End-->
