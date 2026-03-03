@@ -46,14 +46,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
