@@ -10,11 +10,12 @@ public:
 private:
     void calculate(vector<int>& res, int target, int sum, int index,
                    vector<int>& nums, vector<vector<int>>& m) {
-        if (index >= nums.size()) {
-            return;
-        }
+       
         if (sum == target) {
             m.push_back(res);
+            return;
+        }
+         if (index >= nums.size()) {
             return;
         }
         if (sum > target) {
