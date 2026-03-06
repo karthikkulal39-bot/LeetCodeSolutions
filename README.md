@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0078-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
