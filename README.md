@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0046-permutations) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
