@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
