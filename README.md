@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
