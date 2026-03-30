@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0090-subsets-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
