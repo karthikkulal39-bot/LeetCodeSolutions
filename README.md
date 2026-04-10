@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
