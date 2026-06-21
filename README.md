@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -161,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/karthikkulal39-bot/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
